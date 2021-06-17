@@ -11,10 +11,10 @@ role: Visiting Assistant Professor
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Georgia State University
-  url: https://www.uga.edu/
+  url: https://robinson.gsu.edu/academic-departments/insight/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in teaching and research in social computing, computer science, data analysis, and information systems. 
+bio: Visiting Assistant Professor of Data Analytics at Georgia State University's Institue for Insight. Interested in teaching and research in social computing, computer science, data analysis, and information systems. 
 
 # Interests to show in About widget
 interests:
