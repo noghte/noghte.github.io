@@ -6,7 +6,7 @@
 # Appearance
 
 theme: rose_s
-day_night: true
+day_night: false
 font: 'Segoe UI'
 font_size: M
 
