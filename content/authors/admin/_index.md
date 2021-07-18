@@ -32,7 +32,7 @@ education:
   - course: Master's of IT Management
     institution: Shahid Beheshti University
     year: 2013
-  - course: BSc in Software Engineering
+  - course: BS in Software Engineering
     institution: Azad University of Sari
     year: 2006
 

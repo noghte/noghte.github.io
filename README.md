@@ -1,4 +1,12 @@
-<p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Template for Wowchemy Website Builder"></a></p>
+# Pallette
+E8D6CB
+D0ADA7
+BF8C8A
+AD6A6C
+5D2E46
+895E7E
+B58DB6
+https://coolors.co/e8d6cb-d0ada7-bf8c8a-ad6a6c-5d2e46-895e7e-b58db6
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
 
